@@ -1,7 +1,7 @@
 {
     "name": "myth-adventure-health",
     "version": "1.0.0",
-    "description": "Melvor Idle mod that uses standard health scaling for adventure mode.",
+    "description": "Melvor Idle mod that uses standard mode health multiplier for adventure mode.",
     "main": "manifest.json",
     "scripts": {
         "pack": "webpack",
